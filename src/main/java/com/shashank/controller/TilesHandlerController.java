@@ -28,5 +28,4 @@ public class TilesHandlerController {
 	public String processForm(Map<String, String> map) {
 		return "result";
 	}
-
 }
